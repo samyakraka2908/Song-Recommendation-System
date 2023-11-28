@@ -12,4 +12,4 @@ Our project aims to achieve the following:
 3.Enhance the overall experience of music apps like Spotify, making it more seamless.
 4.Simplify the process of recommending songs based on their favorite artists or beloved tracks.
 
-This project was a collaborative effort among my colleagues and me."
+This project was a collaborative effort among my colleagues and me.
